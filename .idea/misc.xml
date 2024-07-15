@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-user/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-role/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/aguigu-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-role-2/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-role-3/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-zk-user/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-role-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu-consul-user/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

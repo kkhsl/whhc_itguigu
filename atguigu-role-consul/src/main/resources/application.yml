@@ -1,0 +1,37 @@
+server:
+  port: 3005
+spring:
+  application:
+    name: consul-role-service
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource #当前数据源操作类型
+    driver-class-name: org.gjt.mm.mysql.Driver #com.mysql.jdbc.Driver MySQL驱动包
+    url: jdbc:mysql://localhost:3306/metoo_tv5?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 123456
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+#  cloud: # 使用Zookeeper替换Eureka
+#    zookeeper:
+#      connect-spirng: 192.168.5.21:2181
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.atguigu.springcloud.entities #所有Entity别名类所在包
+
+
+# 停更
+#eureka:
+#  client:
+#    register-with-eureka: true # 表示是否注册到EurekaServer默认为True
+#    fetch-registry: true # 是否从EurekaServer抓取已有的注册信息，默认为True,单节点无所谓，集群必须设置为True才能配合Ribbon使用负载均衡
+#    service-url:
+#      defaultZone: http://eureka2001:2001/eureka/,http://eureka2002:2002/eureka/,http://eureka2003:2003/eureka/
+#  instance:
+#    instance-id: ROLE-SERVICE-ONE
+
+
+# 替代：Zookeeper

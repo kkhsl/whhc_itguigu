@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-consul-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-consul-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-role" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-role-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-role-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-role-consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu-zk-user" charset="UTF-8" />
+  </component>
+</project>

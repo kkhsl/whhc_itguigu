@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atguigu-commons/atguigu-commons.iml" filepath="$PROJECT_DIR$/atguigu-commons/atguigu-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-consul-user/atguigu-consul-user.iml" filepath="$PROJECT_DIR$/atguigu-consul-user/atguigu-consul-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-consul-user/atguigu-consul-zk.iml" filepath="$PROJECT_DIR$/atguigu-consul-user/atguigu-consul-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-eureka/atguigu-eureka.iml" filepath="$PROJECT_DIR$/atguigu-eureka/atguigu-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-role/atguigu-role.iml" filepath="$PROJECT_DIR$/atguigu-role/atguigu-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-role-2/atguigu-role-2.iml" filepath="$PROJECT_DIR$/atguigu-role-2/atguigu-role-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-role-3/atguigu-role-3.iml" filepath="$PROJECT_DIR$/atguigu-role-3/atguigu-role-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-role-consul/atguigu-role-consul.iml" filepath="$PROJECT_DIR$/atguigu-role-consul/atguigu-role-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-user/atguigu-user.iml" filepath="$PROJECT_DIR$/atguigu-user/atguigu-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-zk-user/atguigu-zk-user.iml" filepath="$PROJECT_DIR$/atguigu-zk-user/atguigu-zk-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu2021.iml" filepath="$PROJECT_DIR$/atguigu2021.iml" />
+    </modules>
+  </component>
+</project>
